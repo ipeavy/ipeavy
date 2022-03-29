@@ -8,15 +8,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ishsportfolio.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ishsportfolio.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/IshmaelPeavy#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/IshmaelPeavy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ishmael-peavy-b591a9170/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ishmael-peavy-b591a9170/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<img align="left" alt="website" width="26px" src="https://i.imgur.com/yMLGKq8.png" style="padding-right:10px;" />
+<img align="left" alt="linkedin" width="26px" src="https://i.imgur.com/b76ou2Q.png" style="padding-right:10px;" />
+<img align="left" alt="twitter" width="26px" src="https://i.imgur.com/e0FyPoJ.png" style="padding-right:10px;" />
 
 ### 📕 Latest Blog Posts
 
