@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="website" width="26px" src="https://i.imgur.com/yMLGKq8.png" style="padding-right:10px;" />()
+<a href="https://ishsportfolio.com/"><img align="left" alt="website" width="26px" src="https://i.imgur.com/yMLGKq8.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/ishmael-peavy-b591a9170/"><img align="left" alt="linkedin" width="26px" src="https://i.imgur.com/b76ou2Q.png" style="padding-right:10px;" /></a>
-<img align="left" alt="twitter" width="26px" src="https://i.imgur.com/e0FyPoJ.png" style="padding-right:10px;" />
+<a href="https://twitter.com/IshmaelPeavy"><img align="left" alt="twitter" width="26px" src="https://i.imgur.com/e0FyPoJ.png" style="padding-right:10px;" /></a>
 
 <br/>
 <br/>
