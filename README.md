@@ -2,7 +2,7 @@
 
 ## I'm a HTML Email Developer / Front End Web Developer!!
 
-- 🌱 I’m currently learning Javascript / SQL
+- 🌱 I’m currently learning Javascript @freecodecamp 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime and going for a hike
 
