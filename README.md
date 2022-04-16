@@ -15,6 +15,9 @@
 <br/>
 <br/>
 
+### Goals
+Get a certificate for Javascript from FreeCodeCamp
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
