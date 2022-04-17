@@ -16,7 +16,7 @@
 <br/>
 
 ### Goals
-Get a certificate for Javascript from FreeCodeCamp
+- Get a certificate for Javascript from FreeCodeCamp
 
 ### 📕 Latest Blog Posts
 
