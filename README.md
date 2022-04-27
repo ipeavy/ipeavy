@@ -17,6 +17,7 @@
 
 ### Goals
 - Get a certificate for Javascript from FreeCodeCamp
+- Start an email campaign 
 
 ### 📕 Latest Blog Posts
 
