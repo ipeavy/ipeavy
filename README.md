@@ -31,7 +31,7 @@
 
 <!-- WEBSITE-POST:START -->
 
-- [My Website](https://ishsportfolio.com/)
+- [ishsportfolio.com](https://ishsportfolio.com/)
 <!-- WEBSITE-POST:END -->
 
 
