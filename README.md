@@ -27,7 +27,7 @@
 - [Where To Find Resources As An Inspiring HTML Email Developer](https://guidefornewemaildev.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
-###  My Website
+###  My Website ⚡
 
 <!-- WEBSITE-POST:START -->
 
